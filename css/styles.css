@@ -3,7 +3,7 @@ Styles for entire site (mobile first)
 ****************/
 
 body {
-  background-image:url("../_images/_backgrounds/strathmoreCharcoal500_white.jpg");
+  background-image:url("../images/_backgrounds/strathmoreCharcoal500_white.jpg");
   background-repeat:repeat;
   background-size:25%;
   font-family: 'IM Fell English', serif;
